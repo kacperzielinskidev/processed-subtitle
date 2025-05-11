@@ -28,7 +28,7 @@ _(Replace `<your-repository-url>` with the actual URL of your Git repository and
 Navigate to the project's root directory (if you're not already there) and install the necessary npm packages:
 
 ```bash
-npm install
+npm ci
 ```
 
 _(If you prefer yarn, use `yarn install`)_
