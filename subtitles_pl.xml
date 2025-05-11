@@ -1,0 +1,14 @@
+<subtitles video_id="film_abc_123" lang="pl">
+  <cue start_time="00:00:01.500" end_time="00:00:03.200">
+    <text>To jest pierwszy napis.</text>
+  </cue>
+  <cue start_time="00:00:04.000" end_time="00:00:06.800">
+    <text>A to jest drugi.</text>
+  </cue>
+  <cue start_time="00:00:07.123" end_time="00:00:09.456">
+    <text>
+      Napis wieloliniowy,
+      z dodatkowymi białymi znakami.
+    </text>
+  </cue>
+</subtitles>
